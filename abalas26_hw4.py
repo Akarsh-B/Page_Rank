@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 '''
 __author__ = {'Akarsh Balasubramanyam'}
-__UIN__ = {'658639093'}
-__email__ = {'abalas26@uic.edu'}
 '''
 #---Imports---
 # Importing Counter from collections to count the number of tokens
