@@ -21,7 +21,7 @@ Also please make sure the language model is download for spacy using the followi
 
 Command:    python3 <script_name.py> <corups.zip> <window_size>
             
-            python3 abalas26_hw4.py www.zip 6
+            python3 page_rank.py www.zip 6
 
             argv[0] : Name of the script file/Code
             argv[1] : The zip file of the documents to be processed [Note: Do not extract the file, please use the zip file as it reads the file using script]
@@ -66,7 +66,3 @@ MRR for top 7 n_grams with window size 6 : 0.12490870032223388
 MRR for top 8 n_grams with window size 6 : 0.12923200859291054
 MRR for top 9 n_grams with window size 6 : 0.13407745554362066
 MRR for top 10 n_grams with window size 6 : 0.1376112901300867
-
-Note:
-Please not that using different stop words and tokenization method may lead to slight changes in the values, i.e in the order-of 0.0x. 
-The Spacy provided stop words and tokenizer are considered to be highly optimized.
