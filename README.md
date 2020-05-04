@@ -2,10 +2,10 @@
 A Python Code to Pre-process -> Generate Graph -> Calculate Page Rank -> Calculate MRR for abstracts from WWW data
 Note: !-- Do not extract the zip file --! !-- The complete program takes around 1-2 mins to run, please wait until the results show up on the command line(the same can be found below) --!
 
-#Description:-
-A Python Code to Pre-process -> Generate Graph -> Calculate Page Rank -> Calculate MRR for abstracts from WWW data
-
 #Packages Used:-
+
+(pip install requirements.txt)
+
 1. numpy 
 2. collections
 3. re
