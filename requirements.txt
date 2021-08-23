@@ -7,4 +7,4 @@ nltk == 3.4.5
 scipy == 1.4.1
 networkx == 2.3
 jupyterlab == 1.0.2
-notebook == 6.1.5
+notebook == 6.4.1
